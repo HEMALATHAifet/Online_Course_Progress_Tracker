@@ -1,8 +1,3 @@
-Here’s a **professional GitHub README** for your SQL project:
-**“Online Course Progress Tracker”** — written in the same style as your previous one 👏
-
----
-
 # 🎓 Online Course Progress Tracker
 
 A beginner-friendly SQL project that models an online learning platform (like Coursera or Udemy) — designed to practice **foreign keys, joins, subqueries, and views** through a real-world education system example.
@@ -32,7 +27,7 @@ It provides a practical foundation to understand **database relationships**, **q
 | `create_tables.sql` | Schema creation for Students, Courses, Modules, Enrollments, Progress |
 | `insert_data.sql`   | Sample data for all tables (Oracle-compatible inserts)                |
 | `queries.sql`       | Analytical SQL queries for course progress and enrollments            |
-| `views.sql`         | Contains view creation for completed students                         |
+
 
 ---
 
@@ -107,5 +102,3 @@ A fully functional SQL-based system representing a **learning platform database*
 All my **practice queries** and **PDF proof of hands-on completion** are included in the GitHub repository.
 
 ---
-
-Would you like me to make a **LinkedIn post** for this project too (like your Fitness Tracker one — with hook, hiring message, and hashtags)?
